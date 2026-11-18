@@ -6,7 +6,7 @@ a{color:var(--green)}a:hover{color:#0F2E21}
 header.site{border-bottom:1px solid var(--line)}
 header.site .wrap{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:16px;padding:18px 24px}
 .brand{display:flex;align-items:center;gap:12px;text-decoration:none;color:var(--ink)}
-.brand .mark{width:40px;height:40px;border-radius:10px;background:var(--green);display:flex;align-items:center;justify-content:center}
+.brand .mark{width:42px;height:42px;border-radius:50%;background:none;display:flex;align-items:center;justify-content:center}
 .brand b{font-size:22px;font-weight:800;display:block;line-height:1.2}
 .brand small{display:block;font-size:13px;font-weight:600;color:var(--muted);letter-spacing:.06em}
 nav.main{display:flex;flex-wrap:wrap;gap:22px;font-weight:600}
